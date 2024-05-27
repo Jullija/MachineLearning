@@ -1,0 +1,48 @@
+Last login: Mon May 27 16:05:51 on ttys001
+You have new mail.
+(base) ➜  MachineLearning git:(main) ✗ cd lab6
+(base) ➜  lab6 git:(main) ✗ touch .gitignore
+(base) ➜  lab6 git:(main) ✗ nano .gitignore 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09                    File: .gitignore                    Modified  
+
+/mnist
+/test_set
+/venv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur Pos   
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text^T To Spell  
